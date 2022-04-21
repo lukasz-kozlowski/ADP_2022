@@ -16,9 +16,9 @@ Update the table (today you need to fill at least first two columns)
 | Małgorzata Sudoł | [malgorzata-sudol](https://github.com/msudolm) | [EAR](https://github.com/exsto1/Easy-AlphaFold-Report) | Maria Bochenek, Maciej Sikora, Kamil Pawlicki |
 | Maciej Sikora | [maciej-sikora](https://github.com/exsto1) | [EAR](https://github.com/exsto1/Easy-AlphaFold-Report) | Maria Bochenek, Małgorzata Sudoł, Kamil Pawlicki |
 | Pawlicki Kamil | [kamil-pawlicki](https://github.com/MiTRonGTE) | [EAR](https://github.com/exsto1/Easy-AlphaFold-Report) | Maria Bochenek, Małgorzata Sudoł, Maciej Sikora |
-| Kochańska Zofia | [zofia-kochanska](https://github.com/zofiakk) | [EAR](https://github.com/zofiakk/SNP) | Julia Smolik, Jakub Białecki |
-| Smolik Julia | [julia-smolik](https://github.com/juliasmolik) | [EAR](https://github.com/zofiakk/SNP) | Zofia Kochańska, Jakub Białecki |
-| Białecki Jakub | [jakub-bialecki](https://github.com/Kubinho1) | [EAR](https://github.com/zofiakk/SNP) | Julia Smolik, Zofia Kochańska |
+| Kochańska Zofia | [zofia-kochanska](https://github.com/zofiakk) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Jakub Białecki |
+| Smolik Julia | [julia-smolik](https://github.com/juliasmolik) | [SNP](https://github.com/zofiakk/SNP) | Zofia Kochańska, Jakub Białecki |
+| Białecki Jakub | [jakub-bialecki](https://github.com/Kubinho1) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Zofia Kochańska |
 
  
 ### Task 2
