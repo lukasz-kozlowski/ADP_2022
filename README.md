@@ -22,6 +22,13 @@ Update the table (today you need to fill at least first two columns)
 | Małgorzata Kuliełka | [malgorzata-kukielka](https://github.com/mkukielka3) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Zofia Kochańska, Jakub Białecki |
 | Marcin Klimko | [marcin-klimko](https://github.com/Marcin11111) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Elżbieta Karpińska |
 | Elżbieta Karpińska | [elzbieta-karpinska](https://github.com/ekarpinska) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Marcin Klimko |
+| Dzikowski Maciej | gr1 | gr1 | Hryniewicka Ada, Maruchin Michał |
+| Hryniewicka Ada | gr1 | gr1 | Dzikowski Maciej, Maruchin Michał |
+| Maruchin Michał | gr1 | gr1 | Dzikowski Maciej, Hryniewicka Ada |
+| Krakowski Kamil | gr2 | gr2 | Rutecka Natalia, Semik Anna |
+| Rutecka Natalia | gr2 | gr2 | Semik Anna, Krakowski Kamil  |
+| Semik Anna | gr2 | gr2 | Rutecka Natalia, Krakowski Kamil  |
+
 
  
 ### Task 2
