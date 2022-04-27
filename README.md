@@ -25,9 +25,9 @@ Update the table (today you need to fill at least first two columns)
 | Dzikowski Maciej | gr1 | gr1 | Hryniewicka Ada, Maruchin Michał |
 | Hryniewicka Ada | gr1 | gr1 | Dzikowski Maciej, Maruchin Michał |
 | Maruchin Michał | gr1 | gr1 | Dzikowski Maciej, Hryniewicka Ada |
-| Krakowski Kamil | [Krakowski-zz](https://github.com/Krakowski-zz) | [HHS](https://github.com/Krakowski-zz/hh-py-suite) | Rutecka Natalia, Semik Anna |
-| Rutecka Natalia | gr2 | [HHS](https://github.com/Krakowski-zz/hh-py-suite) | Semik Anna, Krakowski Kamil  |
-| Semik Anna | gr2 | [HHS](https://github.com/Krakowski-zz/hh-py-suite) | Rutecka Natalia, Krakowski Kamil  |
+| Krakowski Kamil | [Krakowski-zz](https://github.com/Krakowski-zz) | [HHSS](https://github.com/Krakowski-zz/hh-py-suite) | Rutecka Natalia, Semik Anna |
+| Rutecka Natalia | gr2 | [HHSS](https://github.com/Krakowski-zz/hh-py-suite) | Semik Anna, Krakowski Kamil  |
+| Semik Anna | gr2 | [HHSS](https://github.com/Krakowski-zz/hh-py-suite) | Rutecka Natalia, Krakowski Kamil  |
 
 
  
