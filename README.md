@@ -16,9 +16,10 @@ Update the table (today you need to fill at least first two columns)
 | Małgorzata Sudoł | [malgorzata-sudol](https://github.com/msudolm) | [EAR](https://github.com/exsto1/Easy-AlphaFold-Report) | Maria Bochenek, Maciej Sikora, Kamil Pawlicki |
 | Maciej Sikora | [maciej-sikora](https://github.com/exsto1) | [EAR](https://github.com/exsto1/Easy-AlphaFold-Report) | Maria Bochenek, Małgorzata Sudoł, Kamil Pawlicki |
 | Pawlicki Kamil | [kamil-pawlicki](https://github.com/MiTRonGTE) | [EAR](https://github.com/exsto1/Easy-AlphaFold-Report) | Maria Bochenek, Małgorzata Sudoł, Maciej Sikora |
-| Kochańska Zofia | [zofia-kochanska](https://github.com/zofiakk) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Jakub Białecki |
-| Smolik Julia | [julia-smolik](https://github.com/juliasmolik) | [SNP](https://github.com/zofiakk/SNP) | Zofia Kochańska, Jakub Białecki |
-| Białecki Jakub | [jakub-bialecki](https://github.com/Kubinho1) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Zofia Kochańska |
+| Kochańska Zofia | [zofia-kochanska](https://github.com/zofiakk) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Jakub Białecki, Małgorzata Kuliełka |
+| Smolik Julia | [julia-smolik](https://github.com/juliasmolik) | [SNP](https://github.com/zofiakk/SNP) | Zofia Kochańska, Jakub Białecki, Małgorzata Kuliełka |
+| Białecki Jakub | [jakub-bialecki](https://github.com/Kubinho1) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Zofia Kochańska, Małgorzata Kuliełka |
+| Małgorzata Kuliełka | [malgorzata-kukielka](https://github.com/mkukielka3) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Zofia Kochańska, Jakub Białecki |
 | Marcin Klimko | [marcin-klimko](https://github.com/Marcin11111) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Elżbieta Karpińska |
 | Elżbieta Karpińska | [elzbieta-karpinska](https://github.com/ekarpinska) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Marcin Klimko |
 
