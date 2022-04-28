@@ -20,11 +20,11 @@ Update the table (today you need to fill at least first two columns)
 | Smolik Julia | [julia-smolik](https://github.com/juliasmolik) | [SNP](https://github.com/zofiakk/SNP) | Zofia Kochańska, Jakub Białecki, Małgorzata Kuliełka |
 | Białecki Jakub | [jakub-bialecki](https://github.com/Kubinho1) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Zofia Kochańska, Małgorzata Kuliełka |
 | Małgorzata Kuliełka | [malgorzata-kukielka](https://github.com/mkukielka3) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Zofia Kochańska, Jakub Białecki |
-| Marcin Klimko | [marcin-klimko](https://github.com/Marcin11111) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Elżbieta Karpińska |
-| Elżbieta Karpińska | [elzbieta-karpinska](https://github.com/ekarpinska) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Marcin Klimko |
-| Dzikowski Maciej | gr1 | gr1 | Hryniewicka Ada, Maruchin Michał |
-| Hryniewicka Ada | gr1 | gr1 | Dzikowski Maciej, Maruchin Michał |
+| Marcin Klimko | [marcin-klimko](https://github.com/Marcin11111) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Elżbieta Karpińska, Michał Maruchin |
+| Elżbieta Karpińska | [elzbieta-karpinska](https://github.com/ekarpinska) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Marcin Klimko, Michał Maruchin|
 | Maruchin Michał | [michal-maruchin](https://github.com/mmaruchin98) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Marcin Klimko,  Elżbieta Karpińska |
+| Dzikowski Maciej | gr1 | gr1 | Hryniewicka Ada |
+| Hryniewicka Ada | gr1 | gr1 | Dzikowski Maciej |
 | Krakowski Kamil | [Krakowski-zz](https://github.com/Krakowski-zz) | [HHSS](https://github.com/Krakowski-zz/hh-py-suite) | Rutecka Natalia, Semik Anna |
 | Rutecka Natalia | gr2 | [HHSS](https://github.com/Krakowski-zz/hh-py-suite) | Semik Anna, Krakowski Kamil  |
 | Semik Anna | gr2 | [HHSS](https://github.com/Krakowski-zz/hh-py-suite) | Rutecka Natalia, Krakowski Kamil  |
