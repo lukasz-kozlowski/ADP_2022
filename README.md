@@ -24,7 +24,7 @@ Update the table (today you need to fill at least first two columns)
 | Elżbieta Karpińska | [elzbieta-karpinska](https://github.com/ekarpinska) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Marcin Klimko |
 | Dzikowski Maciej | gr1 | gr1 | Hryniewicka Ada, Maruchin Michał |
 | Hryniewicka Ada | gr1 | gr1 | Dzikowski Maciej, Maruchin Michał |
-| Maruchin Michał | gr1 | gr1 | Dzikowski Maciej, Hryniewicka Ada |
+| Maruchin Michał | [michal-maruchin](https://github.com/mmaruchin98) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Marcin Klimko,  Elżbieta Karpińska |
 | Krakowski Kamil | [Krakowski-zz](https://github.com/Krakowski-zz) | [HHSS](https://github.com/Krakowski-zz/hh-py-suite) | Rutecka Natalia, Semik Anna |
 | Rutecka Natalia | gr2 | [HHSS](https://github.com/Krakowski-zz/hh-py-suite) | Semik Anna, Krakowski Kamil  |
 | Semik Anna | gr2 | [HHSS](https://github.com/Krakowski-zz/hh-py-suite) | Rutecka Natalia, Krakowski Kamil  |
